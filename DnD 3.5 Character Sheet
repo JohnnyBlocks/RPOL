@@ -8,10 +8,10 @@
 </tr>
 <tr>
      <td><Brown> Glúmr Triplefang</Brown></td>
-     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm" target="_blank">Ranger</a> 4</Brown></td>
-     <td><Brown> <a href="http://www.d20srd.org/srd/races.htm" target="_blank">Human</a></Brown></td>
-     <td><Brown> <a href="http://www.d20srd.org/srd/description.htm#alignment" target="_blank">Chaotic Good</a></Brown></td>
-     <td><Brown> <a href="http://rpol.net/display.cgi?gi=37407&ti=5&date=1292995541" target="_blank">Ehlonna</a></Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm">Ranger</a> 4</Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/races.htm">Human</a></Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/description.htm#alignment">Chaotic Good</a></Brown></td>
+     <td><Brown> <a href="http://rpol.net/display.cgi?gi=37407&ti=5&date=1292995541">Ehlonna</a></Brown></td>
 </tr>
 </table> 
 <table width="100%">
@@ -94,7 +94,7 @@
 <tr>
      <th>Hit Points    </th>
      <td><Brown> 23 </Brown></td>
-     <td><Red> 3 </Red> /<Green> 20</Green></td>
+     <td><Red> 0 </Red> /<Green> 23</Green></td>
      <td><Red> 0 </Red></td>
      <td><Brown> 30' (6 Squares)</Brown></td>
 </tr>
@@ -553,7 +553,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/appraise.htm" target="_blank">Appraise</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/appraise.htm">Appraise</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -566,7 +566,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Balance.htm" target="_blank">Balance</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Balance.htm">Balance</a></small></th>
      <th><small>DEX*</small></th>
      <td><Brown> 4</Brown></td>
      <th>=</th>
@@ -579,7 +579,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Bluff.htm" target="_blank">Bluff</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Bluff.htm">Bluff</a></small></th>
      <th><small>CHR </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -592,7 +592,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Climb.htm" target="_blank">Climb</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Climb.htm">Climb</a></small></th>
      <th><small>STR*</small></th>
      <td><Brown> 5</Brown></td>
      <th>=</th>
@@ -606,7 +606,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Concentration.htm" target="_blank">Concentration</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Concentration.htm">Concentration</a></small></th>
      <th><small>CON </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -619,7 +619,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Craft.htm" target="_blank">Craft</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Craft.htm">Craft</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -632,7 +632,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/DecipherScript.htm" target="_blank">Decipher Script</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/DecipherScript.htm">Decipher Script</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -645,7 +645,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Diplomacy.htm" target="_blank">Diplomacy</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Diplomacy.htm">Diplomacy</a></small></th>
      <th><small>CHA </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -658,7 +658,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/DisableDevice.htm" target="_blank">Disable Device</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/DisableDevice.htm">Disable Device</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -671,7 +671,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Disguise.htm" target="_blank">Disguise</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Disguise.htm">Disguise</a></small></th>
      <th><small>CHA </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -684,7 +684,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/EscapeArtist.htm" target="_blank">Escape Artist</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/EscapeArtist.htm">Escape Artist</a></small></th>
      <th><small>DEX*</small></th>
      <td><Brown> 4</Brown></td>
      <th>=</th>
@@ -697,7 +697,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Forgery.htm" target="_blank">Forgery</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Forgery.htm">Forgery</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -710,7 +710,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/GatherInformation.htm" target="_blank">Gather Information</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/GatherInformation.htm">Gather Information</a></small></th>
      <th><small>CHA </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -723,7 +723,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/HandleAnimal.htm" target="_blank">Handle Animal</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/HandleAnimal.htm">Handle Animal</a></small></th>
      <th><small>CHA </small></th>
      <td><Brown> 6</Brown></td>
      <th>=</th>
@@ -737,7 +737,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Heal.htm" target="_blank">Heal</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Heal.htm">Heal</a></small></th>
      <th><small>WIS </small></th>
      <td><Brown> 2</Brown></td>
      <th>=</th>
@@ -750,7 +750,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Hide.htm" target="_blank">Hide</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Hide.htm">Hide</a></small></th>
      <th><small>DEX*</small></th>
      <td><Brown> 10</Brown></td>
      <th>=</th>
@@ -763,7 +763,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Intimidate.htm" target="_blank">Intimidate</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Intimidate.htm">Intimidate</a></small></th>
      <th><small>CHA</small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -776,7 +776,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Jump.htm" target="_blank">Jump</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Jump.htm">Jump</a></small></th>
      <th><small>STR*</small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -789,7 +789,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Knowledge.htm" target="_blank">Knowledge: Dungeoneering</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Knowledge.htm">Knowledge: Dungeoneering</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -802,7 +802,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Knowledge.htm" target="_blank">Knowledge: Geography</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Knowledge.htm">Knowledge: Geography</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -815,7 +815,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Knowledge.htm" target="_blank">Knowledge: Nature</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Knowledge.htm">Knowledge: Nature</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> 5</Brown></td>
      <th>=</th>
@@ -828,7 +828,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Listen.htm" target="_blank">Listen</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Listen.htm">Listen</a></small></th>
      <th><small>WIS </small></th>
      <td><Brown> 5</Brown></td>
      <th>=</th>
@@ -841,7 +841,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/MoveSilently.htm" target="_blank">Move Silently</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/MoveSilently.htm">Move Silently</a></small></th>
      <th><small>DEX*</small></th>
      <td><Brown> 10</Brown></td>
      <th>=</th>
@@ -854,7 +854,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/OpenLock.htm" target="_blank">Open Lock</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/OpenLock.htm">Open Lock</a></small></th>
      <th><small>DEX </small></th>
      <td><Brown> 4</Brown></td>
      <th>=</th>
@@ -867,7 +867,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Profession.htm" target="_blank">Profession</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Profession.htm">Profession</a></small></th>
      <th><small>WIS </small></th>
      <td><Brown> 2</Brown></td>
      <th>=</th>
@@ -880,7 +880,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Ride.htm" target="_blank">Ride</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Ride.htm">Ride</a></small></th>
      <th><small>DEX </small></th>
      <td><Brown> 6</Brown></td>
      <th>=</th>
@@ -893,7 +893,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Search.htm" target="_blank">Search</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Search.htm">Search</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> 6</Brown></td>
      <th>=</th>
@@ -906,7 +906,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/SenseMotive.htm" target="_blank">Sense Motive</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/SenseMotive.htm">Sense Motive</a></small></th>
      <th><small>WIS </small></th>
      <td><Brown> 2</Brown></td>
      <th>=</th>
@@ -919,7 +919,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/SleightofHand.htm" target="_blank">Sleight of Hand</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/SleightofHand.htm">Sleight of Hand</a></small></th>
      <th><small>DEX*</small></th>
      <td><Brown> 4</Brown></td>
      <th>=</th>
@@ -932,7 +932,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Spellcraft.htm" target="_blank">Spellcraft</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Spellcraft.htm">Spellcraft</a></small></th>
      <th><small>INT </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -945,7 +945,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Spot.htm" target="_blank">Spot</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Spot.htm">Spot</a></small></th>
      <th><small>WIS </small></th>
      <td><Brown> 4</Brown></td>
      <th>=</th>
@@ -958,7 +958,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/survival.htm" target="_blank">Survival</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/survival.htm">Survival</a></small></th>
      <th><small>WIS </small></th>
      <td><Brown> 9</Brown></td>
      <th>=</th>
@@ -971,7 +971,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Swim.htm" target="_blank">Swim</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Swim.htm">Swim</a></small></th>
      <th><small>STR*</small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -984,7 +984,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/Tumble.htm" target="_blank">Tumble</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/Tumble.htm">Tumble</a></small></th>
      <th><small>DEX*</small></th>
      <td><Brown> 4</Brown></td>
      <th>=</th>
@@ -997,7 +997,7 @@ Modifier</small></th>
 <tr>
      <td><Brown>  </Brown></td>
      <td><Brown>  </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/UseMagicDevice.htm" target="_blank">Use Magic Device</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/UseMagicDevice.htm">Use Magic Device</a></small></th>
      <th><small>CHA </small></th>
      <td><Brown> </Brown></td>
      <th>=</th>
@@ -1010,7 +1010,7 @@ Modifier</small></th>
 <tr>
      <td><Brown> x </Brown></td>
      <td><Brown> x </Brown></td>
-     <th><small><a href="http://www.d20srd.org/srd/skills/UseRope.htm" target="_blank">Use Rope</a></small></th>
+     <th><small><a href="http://www.d20srd.org/srd/skills/UseRope.htm">Use Rope</a></small></th>
      <th><small>DEX</small></th>
      <td><Brown> 9</Brown></td>
      <th>=</th>
@@ -1034,42 +1034,42 @@ Modifier</small></th>
      <th>Languages</th>
 </tr>
 <tr>
-     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#pointBlankShot" target="_blank">Point Blank Shot</a></Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#pointBlankShot">Point Blank Shot</a></Brown></td>
      <th></th>
-     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm#favoredEnemy" target="_blank">Favored Enemy</a>: Golbinoids</Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm#favoredEnemy">Favored Enemy</a>: Golbinoids</Brown></td>
      <th></th>
      <td><Brown> TripleFang </Brown></td>
 </tr>
 <tr>
-     <td><Brown>    - <a href="http://www.d20srd.org/srd/feats.htm#preciseShot" target="_blank">Precise Shot</a></Brown></td>
+     <td><Brown>    - <a href="http://www.d20srd.org/srd/feats.htm#preciseShot">Precise Shot</a></Brown></td>
      <th></th>
-     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm#wildEmpathy" target="_blank">Wild Empathy</a></Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm#wildEmpathy">Wild Empathy</a></Brown></td>
      <th></th>
      <td><Brown> Common</Brown></td>
 </tr>
 <tr>
-     <td><Brown>    - <a href="http://www.d20srd.org/srd/feats.htm#rapidShot" target="_blank">Rapid Shot</a></Brown></td>
+     <td><Brown>    - <a href="http://www.d20srd.org/srd/feats.htm#rapidShot">Rapid Shot</a></Brown></td>
      <th></th>
-     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm#animalCompanion" target="_blank">Animal Companion</a> - Talita the Fox</Brown></td>
-     <th></th>
-     <td><Brown> </Brown></td>
-</tr>
-<tr>
-     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#track" target="_blank">Track</a></Brown></td>
-     <th></th>
-     <td><Brown> </Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/classes/ranger.htm#animalCompanion">Animal Companion</a> - Talita the Fox</Brown></td>
      <th></th>
      <td><Brown> </Brown></td>
 </tr>
 <tr>
-     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#weaponFocus" target="_blank">Weapon Focus (Bow)</a></Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#track">Track</a></Brown></td>
      <th></th>
      <td><Brown> </Brown></td>
      <th></th>
      <td><Brown> </Brown></td>
 </tr>
 <tr>
-     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#endurance" target="_blank">Endurance</a></Brown></td>
+     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#weaponFocus">Weapon Focus (Bow)</a></Brown></td>
+     <th></th>
+     <td><Brown> </Brown></td>
+     <th></th>
+     <td><Brown> </Brown></td>
+</tr>
+<tr>
+     <td><Brown> <a href="http://www.d20srd.org/srd/feats.htm#endurance">Endurance</a></Brown></td>
      <th></th>
      <td><Brown> </Brown></td>
      <th></th>
@@ -1090,7 +1090,7 @@ Spells </small></th>
 </tr>
 <tr>
      <th>2</th>
-     <td><Brown><center><a href="http://www.d20srd.org/srd/spellLists/rangerSpells.htm#firstLevelRangerSpells" target="_blank">[link]</a></center></Brown></td>
+     <td><Brown><center><a href="http://www.d20srd.org/srd/spellLists/rangerSpells.htm#firstLevelRangerSpells">[link]</a></center></Brown></td>
      <td><Brown><center>13</center></Brown></td>
      <td><Brown><center>0</center></Brown></td>
      <td><Brown><center>1</center></Brown></td>
@@ -1337,6 +1337,21 @@ Carried</small></th>
      <td><Brown> ? Lbs </Brown></td>
      <td><Brown> Ch06 - #321 </Brown></td>
 </tr> 
+<tr>
+     <td><Brown> Magic Crossbow </Brown></td>
+     <td><Brown> ? Lbs </Brown></td>
+     <td><Brown> Ch07 - #120 </Brown></td>
+</tr> 
+<tr>
+     <td><Brown> Crystal Blade </Brown></td>
+     <td><Brown> ? Lbs </Brown></td>
+     <td><Brown> Ch07- #50 </Brown></td>
+</tr> 
+<tr>
+     <td><Brown> 2 Ornate Bone Containers - Glass Tubes with Red Liquid</Brown></td>
+     <td><Brown> ? Lbs </Brown></td>
+     <td><Brown> Ch07- #50 </Brown></td>
+</tr>
 <tr>
      <th>Inventory Items Carried in Saddle Bags</th>
      <th><small>Weight</small></th>
